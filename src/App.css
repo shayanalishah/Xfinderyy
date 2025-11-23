@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+}
+
+button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #005bb5;
+}
