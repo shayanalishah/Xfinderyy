@@ -1,3 +1,1 @@
-# React Landing Page
-
-Simple SPA setup.
+React SPA wrapper for your Carrd landing page.
